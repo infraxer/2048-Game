@@ -18,6 +18,16 @@ JavaScript
 2. Tiles with the same number will merge when they collide.
 
 3. The game ends when you reach the 2048 tile or when there are no more valid moves.
+## Installation
+
+1) Download all 3 files
+- 2048.html
+- 2048.css
+- 2048.js
+
+2) Put all the 3 files in the same folder.
+
+3) Run the 2048.html file in your browser.
 ## Contact
 If you have any questions or suggestions, please feel free to reach out to me at 
 
