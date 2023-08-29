@@ -31,4 +31,4 @@ JavaScript
 ## Contact
 If you have any questions or suggestions, please feel free to reach out to me at 
 
-arnavgupta020402@email.com
+arnavgupta020402@gmail.com
